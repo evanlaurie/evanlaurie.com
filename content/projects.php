@@ -6,6 +6,12 @@ $projects = array(
 		'img'         => 'gbd-compare.png',
 		'url'					=> 'http://vizhub.healthdata.org/gbd-compare/'
 	),
+	'ebola' => array(
+		'title' 			=> 'Spatial epidemiology of Ebola',
+		'description' => 'Interactive map showing environmental suitability for Ebola virus disease within Africa.',
+		'img'         => 'ebola.png',
+		'url'					=> 'http://vizhub.healthdata.org/ebola/'
+	),
 	'nigeria-health-map' => array(
 		'title'       => 'Nigeria Health Map',
 		'description' => 'Nigeria state-level interventions and outcomes.',

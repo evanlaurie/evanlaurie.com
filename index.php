@@ -41,7 +41,9 @@
 						<h1>Evan Laurie</h1>
 					</header>
 					<nav class="nav" id="nav">
-					<?php foreach($sections as $id => $title): ?><a id="nav-<?php print $id; ?>" href="#<?php print $id; ?>"><?php print $title; ?></a><?php endforeach; ?>
+					<?php foreach($sections as $id => $title): ?>
+						<a id="nav-<?php print $id; ?>" href="#<?php print $id; ?>"><?php print $title; ?></a>
+					<?php endforeach; ?>
 					</nav>
 				</div>
 				<div class="content" id="content">
