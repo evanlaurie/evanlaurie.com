@@ -1,5 +1,11 @@
 <?php
 $projects = array(
+	'sdg' =>array(
+		'title' 			=> 'Health-related SDGs',
+		'description' => 'Measure progress made toward achieving the United Nations Sustainable Development Goals (SDGs).',
+		'img'         => 'sdg.png',
+		'url'					=> 'http://vizhub.healthdata.org/sdg/'
+	),
 	'gbd-compare' => array(
 		'title' 			=> 'GBD Compare',
 		'description' => 'Analyze the world’s health levels and trends in one comprehensive and interactive tool.',

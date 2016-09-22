@@ -75,7 +75,9 @@ body{
 	font-weight: 600;
 }
 
-#nav{}
+#nav{
+	font-size: 0px;
+}
 
 #nav a{
 	display: inline-block;
