@@ -1,5 +1,11 @@
 <?php
 $projects = array(
+	'dex' =>array(
+		'title' 			=> 'Health care spending in the US',
+		'description' => 'US health care spending trends by age, sex, type of care, and condition in the United States.',
+		'img'         => 'dex.png',
+		'url'					=> 'http://vizhub.healthdata.org/dex/'
+	),
 	'sdg' =>array(
 		'title' 			=> 'Health-related SDGs',
 		'description' => 'Measure progress made toward achieving the United Nations Sustainable Development Goals (SDGs).',
