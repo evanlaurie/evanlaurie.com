@@ -58,7 +58,7 @@
 						</article>
 					</section>
 				<?php endforeach; ?>
-				<span id="copy">Copyright © 2016 Evan Laurie<span>
+				<span id="copy">Copyright © 2017 Evan Laurie<span>
 				</div>
 			</div>
 		</div>
