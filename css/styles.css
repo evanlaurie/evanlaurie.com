@@ -464,3 +464,7 @@ body{
 #email a:active{
 	color: #177efb;
 }
+
+#section-projects .category-header{
+ margin-bottom: 10px; 
+}
